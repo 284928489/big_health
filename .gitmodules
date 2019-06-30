@@ -1,0 +1,3 @@
+[submodule "madai_health"]
+	path = madai_health
+	url = git@github.com:284928489/madai_health.git
