@@ -1,6 +1,6 @@
 [submodule "madai_health"]
 	path = madai_health
-	url = git@github.com:284928489/madai_health.git
+	url = git@github.com:TheShaodi/madai_health.git
 [submodule "madai_healthmobile"]
 	path = madai_healthmobile
-	url = git@github.com:284928489/madai_healthmobile.git
+	url = git@github.com:TheShaodi/madai_healthmobile.git
