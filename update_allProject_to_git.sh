@@ -31,7 +31,7 @@ acp dev
 cd ${Project_Path}
 cd madai_healthmobile
 # add commit push madai_healthmobile
-acp master
+acp dev
 
 
 cd ${Project_Path}
